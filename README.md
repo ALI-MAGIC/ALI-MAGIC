@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALI-MAGIC
-- 🎂
+- 🎂 2006/12/26
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on ...
